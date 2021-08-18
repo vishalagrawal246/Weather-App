@@ -1,0 +1,8 @@
+List of all the major librariesframeworks used:---
+
+Material Edit text and Buttons
+DatePicker for DOB
+PostalPinCode API
+Shared Prefrences for Registration
+Weather Api 
+Volley 
